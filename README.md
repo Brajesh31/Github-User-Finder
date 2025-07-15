@@ -48,5 +48,3 @@ YOUR GITHUB ID =
 2. Enter a GitHub username in the search bar and click "Search".
 3. View the user's profile information and repositories.
 
-## Contact 📧
-For any questions or feedback, please contact [Megh Deb](mailto:iammeghdeb@gmail.com).
